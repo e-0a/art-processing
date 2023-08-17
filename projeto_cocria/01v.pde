@@ -12,4 +12,5 @@ void draw{
     noStroke();
 
       float tiles = mouseX/2;
+        float tileSize = width/tiles;
 }
