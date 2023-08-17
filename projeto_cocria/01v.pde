@@ -35,4 +35,3 @@ void draw{
   
   pop();
 }
-}
