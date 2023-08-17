@@ -8,4 +8,6 @@ void setup{
 
 void draw{
     background(#221F20);
+    fill(255);
+  noStroke();
 }
