@@ -5,3 +5,7 @@ void setup{
     img = loadImage("data/textura.jpg");
     img.resize(700,700);
 }
+
+void draw{
+    
+}
