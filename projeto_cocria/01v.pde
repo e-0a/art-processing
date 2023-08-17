@@ -7,5 +7,5 @@ void setup{
 }
 
 void draw{
-    
+    background(#221F20);
 }
