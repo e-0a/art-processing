@@ -13,4 +13,7 @@ void draw{
 
       float tiles = mouseX/2;
         float tileSize = width/tiles;
+        sphereDetail(3);
+  push();
+  translate(width/2, height/2);
 }
